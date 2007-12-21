@@ -13,7 +13,7 @@ our %EXPORT_TAGS = ( 'all' => [ qw( execCMD ) ] );
 our @EXPORT_OK   = ( @{ $EXPORT_TAGS{'all'} });
 our @EXPORT      = ();
 
-our $VERSION     = '1.01';
+our $VERSION     = '1.02';
 
 # ---------------------------------------------------------------------------------
 
